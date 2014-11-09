@@ -43,3 +43,5 @@ end
 ## Additional gems for query optimization demo
 
 gem 'bullet', group: :development
+# Access bullet log:
+# tail -f log/bullet.log
